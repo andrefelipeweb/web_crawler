@@ -1,7 +1,7 @@
 # Web Crawler
 
 ## Descrição
-O **Web Crawler** é uma aplicação que permite extrair dados de páginas da web de forma automatizada. Utilizando a técnica de web scraping, essa ferramenta é capaz de navegar por diferentes URLs, coletar informações específicas e organizá-las para análise posterior.
+O **Web Crawler** é uma aplicação que complementa o url_tracker_sitemap, permitindo extrair dados de páginas da web de forma automatizada a partir das URLs registradas no arquivo JSON gerado pelo url_tracker_sitemap. Utilizando a técnica de web scraping, essa ferramenta é capaz de navegar por diferentes URLs, coletar informações específicas e organizá-las para análise posterior.
 
 ## Funcionalidades
 1. **Upload de Arquivo JSON:**
