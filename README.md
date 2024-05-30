@@ -26,7 +26,7 @@ O **Web Crawler** é uma aplicação que complementa o url_tracker_sitemap, perm
 ## Instalação e Execução
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seuusuario/web-crawler.git
+   git clone https://github.com/andrefelipeweb/web_crawler.git
 
 
 2. **Instale as dependências:**
